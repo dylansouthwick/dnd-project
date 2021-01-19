@@ -1,0 +1,6 @@
+[submodule "dnd-project-backend"]
+	path = dnd-project-backend
+	url = https://github.com/dylansouthwick/dnd-project-backend
+[submodule "dnd-project-frontend"]
+	path = dnd-project-frontend
+	url = https://github.com/dylansouthwick/dnd-project-frontend

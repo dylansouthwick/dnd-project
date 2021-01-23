@@ -1,6 +1,6 @@
 # dnd-project
 
-This project is ment to be a Dungeons and Dragons character creation too
+This project is ment to be a Dungeons and Dragons character creation tool
 
 
 FRONTEND - React.js

@@ -5,8 +5,10 @@ This project is ment to be a Dungeons and Dragons character creation tool
 
 FRONTEND: 
 - React.js
+
 BACKEND: 
 - Django
+
 API's: 
 - Free DnD5e API
 
